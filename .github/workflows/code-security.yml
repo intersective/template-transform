@@ -13,7 +13,7 @@ jobs:
 
     #Global Env variables declare here
     env:
-      SUBDOMAIN: ng-practera-publish
+      SUBDOMAIN: template-transform
 
     steps:
       - name: Checkout repository
