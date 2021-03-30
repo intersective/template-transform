@@ -26,7 +26,6 @@
     "preversion": "npm run lint"
   },
   "dependencies": {
-    "json-to-json-transformer": "^1.1.0",
     "qewd-transform-json": "^1.11.0"
   },
   "devDependencies": {
