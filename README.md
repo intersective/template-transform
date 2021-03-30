@@ -1,4 +1,4 @@
-# @practera/settings-sdk
+# @practera/template-transform
 
 Facilitates the communication with the Practera preferences API.
 
