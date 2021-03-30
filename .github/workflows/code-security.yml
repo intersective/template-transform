@@ -41,7 +41,7 @@ jobs:
           author_name: ${{ env.SUBDOMAIN }} - code security check
           mention: 'here'
           if_mention: failure,cancelled
-          job_name: pull-req-check # Match the name above.
+          job_name:  code-security # Match the name above.
           fields: repo,commit,eventName,ref,workflow,message,author,job,took
           custom_payload: |
             {
