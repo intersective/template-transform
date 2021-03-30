@@ -1,6 +1,6 @@
 # GitHub Actions WorkFlow Name
 
-name: ng-practera npm publish
+name: template-transform npm publish
 
 #Event Trigger for this Workflow
 
