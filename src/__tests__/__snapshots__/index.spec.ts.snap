@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`1. get the settings of a user 1`] = `"{'name': 'Practera'}"`;
+
+exports[`2. parsing an email 1`] = `
+Object {
+  "contentsHtml": "<i>Hello World</i>",
+  "contentsText": "Hello World",
+}
+`;
+
+exports[`3. parsing a sms 1`] = `
+Object {
+  "contents": "dude",
+  "title": "sweet",
+}
+`;
+
+exports[`4. parsing a fasdf 1`] = `Object {}`;
